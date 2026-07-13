@@ -1,0 +1,53 @@
+SCHEME NAME: Pradhan Mantri Kaushal Vikas Yojana (PMKVY)
+SCHEME NAME (HINDI): प्रधानमंत्री कौशल विकास योजना (पीएमकेवीवाई)
+SOURCE URL: https://www.skillindiadigital.gov.in
+OFFICIAL PORTAL: https://www.skillindiadigital.gov.in
+CATEGORY: Skill Development / Employment
+LEVEL: Central Government
+IMPLEMENTING MINISTRY: Ministry of Skill Development and Entrepreneurship (MSDE)
+IMPLEMENTING AGENCY: National Skill Development Corporation (NSDC)
+
+OBJECTIVE:
+To provide industry-relevant skill training to Indian youth (including school/college dropouts and unemployed youth) to enhance their employability through market-oriented, demand-driven short-term training, reskilling, and upskilling.
+
+CURRENT PHASE: PMKVY 4.0
+
+ELIGIBILITY CRITERIA:
+- Must be an Indian citizen
+- Age: 15-45 years
+- Target groups: unemployed youth, school/college dropouts, individuals seeking fresh skilling or upskilling
+- For Recognition of Prior Learning (RPL): must have prior informal experience in the job role
+- Must have valid Aadhaar card, bank account, and relevant educational certificates
+
+COURSES AVAILABLE:
+- 300+ job roles across 40+ sectors including:
+  - Agriculture, Automotive, Beauty & Wellness
+  - Healthcare, IT & ITeS, Retail, Tourism & Hospitality
+  - Emerging fields: AI, Robotics, IoT
+  - Construction, Electronics, Plumbing, Apparel
+  - And many more sector-specific roles
+
+BENEFITS:
+- FREE training (government covers cost)
+- NSQF-aligned certification upon successful completion (industry-recognized)
+- Placement assistance
+- On-the-job training (OJT)
+- Induction kits
+- Accidental insurance for candidates
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card
+- Bank Account Details
+- Educational Certificates (relevant to course)
+- Mobile number
+- Passport-size photographs
+
+APPLICATION PROCESS:
+1. Visit Skill India Digital Hub (SIDH) at skillindiadigital.gov.in
+2. Register using mobile number and Aadhaar details
+3. Search for available courses by location or interest area
+4. Check eligibility for chosen course
+5. Apply online and enroll
+6. Many centers offer counselling for course selection
+
+RETRIEVAL DATE: 2026-07-12

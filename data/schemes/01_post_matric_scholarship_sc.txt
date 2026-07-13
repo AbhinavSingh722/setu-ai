@@ -1,0 +1,47 @@
+SCHEME NAME: Post-Matric Scholarship for Scheduled Caste (SC) Students
+SCHEME NAME (HINDI): अनुसूचित जाति के छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति
+SOURCE URL: https://www.myscheme.gov.in/schemes/pmssc
+OFFICIAL PORTAL: https://scholarships.gov.in
+CATEGORY: Education / Scholarship
+LEVEL: Central Government (Centrally Sponsored Scheme)
+IMPLEMENTING MINISTRY: Ministry of Social Justice and Empowerment
+
+OBJECTIVE:
+To provide financial assistance to Scheduled Caste students studying at post-matriculation or post-secondary level to enable them to complete their education. The scheme aims to prevent dropout due to financial constraints.
+
+ELIGIBILITY CRITERIA:
+- Must belong to Scheduled Caste (SC) category
+- Must be enrolled in a recognized post-matriculation or post-secondary course (Class 11, 12, undergraduate, postgraduate, PhD, etc.)
+- Annual income of parents/guardians from all sources must NOT exceed ₹2,50,000 per annum
+- Must be a full-time student in a recognized institution within India
+- Students are selected by the State Government/UT where they are permanently domiciled
+- Must have passed previous qualifying examination
+
+BENEFITS:
+- Maintenance Allowance: Monthly financial aid for hostellers and day scholars (amounts vary based on course group)
+- Fee Reimbursement: Reimbursement of compulsory non-refundable fees
+- Book Bank: Facilities for specified courses
+- Study Tour Charges: For specified courses
+- Thesis Typing/Printing: For research scholars
+- Additional support for students with disabilities
+- All payments via Direct Benefit Transfer (DBT)
+
+DOCUMENTS REQUIRED:
+- Valid Caste Certificate (SC)
+- Income Certificate (annual family income ≤ ₹2,50,000)
+- Mark sheets from previous qualifying examination
+- Proof of enrollment in recognized institution
+- Aadhaar Card
+- Bank account details (Aadhaar-linked)
+- Passport-size photographs
+- Domicile certificate
+
+APPLICATION PROCESS:
+1. Visit the National Scholarship Portal (NSP) at scholarships.gov.in
+2. Complete One-Time Registration (OTR) if new user
+3. Fill in the scholarship application form
+4. Upload required documents
+5. Submit for verification by educational institution
+6. Application forwarded to State Nodal Agency
+
+RETRIEVAL DATE: 2026-07-12

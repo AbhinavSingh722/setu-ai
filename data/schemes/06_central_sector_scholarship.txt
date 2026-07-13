@@ -1,0 +1,40 @@
+SCHEME NAME: Central Sector Scheme of Scholarship for College and University Students (CSSS)
+SCHEME NAME (HINDI): कॉलेज और विश्वविद्यालय के छात्रों के लिए केंद्रीय क्षेत्र छात्रवृत्ति योजना
+SOURCE URL: https://scholarships.gov.in
+OFFICIAL PORTAL: https://scholarships.gov.in
+CATEGORY: Education / Scholarship
+LEVEL: Central Government
+IMPLEMENTING MINISTRY: Ministry of Education, Department of Higher Education
+
+OBJECTIVE:
+To provide financial assistance to meritorious students from low-income families to meet day-to-day expenses while pursuing higher studies at degree level.
+
+ELIGIBILITY CRITERIA:
+- Must have passed Class 12 board examination and secured position above the 80th percentile of successful candidates in respective stream (Science, Commerce, or Humanities)
+- Must be pursuing regular undergraduate (UG) or postgraduate (PG) course at recognized college/university
+- Annual family income must NOT exceed ₹4,50,000 (₹4.5 lakh)
+- Age: Generally between 18 and 25 years
+- Students in distance education, correspondence courses, or diploma programs are NOT eligible
+- Must not be receiving benefits from any other scholarship scheme
+
+BENEFITS:
+- Scholarship amount varies by study level
+- Duration: Covers undergraduate and postgraduate studies
+- Disbursed via Direct Benefit Transfer (DBT)
+
+DOCUMENTS REQUIRED:
+- Class 12 mark sheet (proving above 80th percentile)
+- Income Certificate (annual family income ≤ ₹4,50,000)
+- Aadhaar Card
+- College/university enrollment proof
+- Bank account details
+- Passport-size photographs
+
+APPLICATION PROCESS:
+1. Applications submitted online exclusively through National Scholarship Portal (NSP) at scholarships.gov.in
+2. New users must complete One-Time Registration (OTR) on the portal
+3. Fill in application form and upload documents
+4. Two-level verification: first by educational institution, then by designated State Nodal Agency
+5. Application window typically opens July/August and closes October/December — check NSP for exact dates
+
+RETRIEVAL DATE: 2026-07-12

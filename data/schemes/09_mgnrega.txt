@@ -1,0 +1,51 @@
+SCHEME NAME: Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)
+SCHEME NAME (HINDI): महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम (मनरेगा)
+SOURCE URL: https://nrega.nic.in
+OFFICIAL PORTAL: https://nrega.nic.in
+CATEGORY: Employment / Rural Welfare
+LEVEL: Central Government
+IMPLEMENTING MINISTRY: Ministry of Rural Development
+
+OBJECTIVE:
+To enhance livelihood security of rural households by guaranteeing 100 days of wage employment in a financial year to every household whose adult members volunteer to do unskilled manual work.
+
+ELIGIBILITY CRITERIA:
+- Must be a citizen of India
+- Must be 18 years of age or older
+- Must be a resident of a rural area
+- Must be willing to perform unskilled manual labor
+- Must be part of a household registered with the local Gram Panchayat
+
+BENEFITS:
+- 100 days guaranteed wage employment per financial year per rural household
+- Unemployment Allowance: If employment not provided within 15 days of application, daily unemployment allowance is payable
+- Direct wage payments deposited into worker's Aadhaar-linked bank account
+- At least one-third of beneficiaries must be women
+- Accident compensation for injury, death, or permanent disability at worksite
+- Wages linked to Consumer Price Index for Agricultural Labor (CPI-AL)
+- Average daily wage: approximately ₹289-370 (varies by state, revised periodically)
+
+DOCUMENTS REQUIRED:
+- Application for Job Card (prescribed form or plain paper)
+- Proof of residence in rural area
+- Aadhaar Card
+- Bank/post office account details
+- Passport-size photographs
+
+APPLICATION PROCESS:
+Offline:
+1. Visit local Gram Panchayat office
+2. Submit application on prescribed form or plain paper
+3. Upon verification, Job Card will be issued
+
+Online:
+1. Download UMANG app, register with mobile number
+2. Search for "MGNREGA" and select "Apply for Job Card"
+3. Physical verification by local authorities is typically required after online submission
+
+After receiving Job Card:
+- Apply for work at Gram Panchayat level
+- Employment must be provided within 15 days of application
+- Work should be provided within 5 km of applicant's residence
+
+RETRIEVAL DATE: 2026-07-12

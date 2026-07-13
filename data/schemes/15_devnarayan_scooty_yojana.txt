@@ -1,0 +1,42 @@
+SCHEME NAME: Devnarayan Girls Student Scooty Distribution & Incentive Scheme
+SCHEME NAME (HINDI): देवनारायण छात्रा स्कूटी वितरण एवं प्रोत्साहन राशि योजना
+SOURCE URL: https://hte.rajasthan.gov.in
+OFFICIAL PORTAL: https://sso.rajasthan.gov.in
+CATEGORY: Education / Incentive for Girls
+LEVEL: State Government (Rajasthan)
+IMPLEMENTING DEPARTMENT: Department of Higher Technical Education, Government of Rajasthan
+
+OBJECTIVE:
+To encourage higher education among girl students from the Most Backward Classes (MBC) by providing free scooties and financial incentives.
+
+ELIGIBILITY CRITERIA:
+- Must be a permanent female resident of Rajasthan
+- Must belong to MBC category (specifically: Gurjar/Gujjar, Banjara, Baldiya, Labana, Gadia Lohar, Gadoliya, Raika, Rebari, Gadriya, Gadri, Gayri)
+- Must have passed Class 12 with at least 50% marks (from RBSE/CBSE)
+- Must be a regular student enrolled in government college or state-funded university in Rajasthan
+- No gap year between 12th grade and UG, or between UG and PG
+- Annual family income must be less than ₹2,50,000
+- Must NOT be receiving benefits from any other government scholarship scheme
+
+BENEFITS:
+- Free Scooty: Merit-based distribution (approximately 4,240 per year), includes insurance and one-time petrol supply
+- Financial Incentive (for those who don't receive scooty):
+  - Undergraduate: ₹10,000 per annum (1st, 2nd, 3rd year)
+  - Postgraduate: ₹20,000 per annum (1st year; additional ₹20,000 for 2nd year if 50%+ marks in PG 1st year)
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card and Jan Aadhaar Card
+- Class 12 Mark Sheet (showing 50%+ marks)
+- Valid Caste Certificate (MBC/SBC)
+- Domicile Certificate
+- College Fee Receipt and Bonafide Certificate
+- Income Certificate (annual family income < ₹2,50,000)
+- Bank Account Details
+
+APPLICATION PROCESS:
+1. Apply online via Rajasthan Higher Technical Education (HTE) portal at hte.rajasthan.gov.in
+2. OR through Rajasthan SSO portal → Scholarship (College Education) app
+3. Fill application form and upload documents
+4. Check merit list on HTE portal
+
+RETRIEVAL DATE: 2026-07-12

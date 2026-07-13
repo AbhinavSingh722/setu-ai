@@ -1,0 +1,49 @@
+SCHEME NAME: National Means-cum-Merit Scholarship Scheme (NMMSS)
+SCHEME NAME (HINDI): राष्ट्रीय साधन-सह-मेधा छात्रवृत्ति योजना (NMMSS)
+SOURCE URL: https://scholarships.gov.in
+OFFICIAL PORTAL: https://scholarships.gov.in
+CATEGORY: Education / Scholarship
+LEVEL: Central Government (Centrally Sponsored Scheme)
+IMPLEMENTING MINISTRY: Ministry of Education, Department of School Education and Literacy
+
+OBJECTIVE:
+To provide financial assistance to meritorious students from economically weaker sections to prevent them from dropping out after Class 8 and encourage continuation of education at secondary and higher secondary levels (Class 9 to 12).
+
+ELIGIBILITY CRITERIA:
+- Must be studying in Class 8 at time of appearing for selection examination
+- Must have secured at least 55% marks (or equivalent grade) in Class 7 annual examination
+- Relaxation of 5% marks for SC/ST and disabled candidates
+- Must be enrolled in Government, Government-aided, or local body school
+- Students in KVS, JNV, Sainik Schools, and private/unaided residential schools are NOT eligible
+- Annual parental income from all sources must NOT exceed ₹3,50,000
+
+SELECTION PROCESS:
+- Students must qualify state-level selection examination with two parts:
+  - Mental Ability Test (MAT)
+  - Scholastic Aptitude Test (SAT)
+- Must pass both tests with at least 40% marks in aggregate (32% for SC/ST students)
+
+BENEFITS:
+- Scholarship Amount: ₹12,000 per annum (₹1,000 per month)
+- Duration: Maximum 4 years, covering Class 9 to Class 12
+- Disbursed via Direct Benefit Transfer (DBT) into student's bank account (public sector bank preferred)
+
+RENEWAL CRITERIA (Class 10 to 12):
+- Must secure clear promotion from Class 9 to 10 and Class 11 to 12 in first attempt
+- Minimum 60% marks in Class 10 (55% for SC/ST students) for scholarship renewal
+- Must maintain continuous enrollment in recognized government/government-aided school
+
+DOCUMENTS REQUIRED:
+- Class 7 mark sheet (showing 55%+ marks)
+- Income Certificate (annual parental income ≤ ₹3,50,000)
+- School enrollment certificate
+- Aadhaar Card
+- Bank account details
+- Category certificate (if applicable for SC/ST relaxation)
+
+APPLICATION PROCESS:
+1. Appear for state-level NMMSS selection examination conducted by State/UT Education Department
+2. Applications processed through National Scholarship Portal (NSP) at scholarships.gov.in
+3. Check state-specific guidelines and deadlines from State/UT Education Department
+
+RETRIEVAL DATE: 2026-07-12

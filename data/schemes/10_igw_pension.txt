@@ -1,0 +1,45 @@
+SCHEME NAME: Indira Gandhi National Widow Pension Scheme (IGNWPS)
+SCHEME NAME (HINDI): इंदिरा गांधी राष्ट्रीय विधवा पेंशन योजना
+SOURCE URL: https://nsap.nic.in
+OFFICIAL PORTAL: https://nsap.nic.in
+CATEGORY: Social Security / Pension
+LEVEL: Central Government (under National Social Assistance Programme - NSAP)
+IMPLEMENTING MINISTRY: Ministry of Rural Development
+
+OBJECTIVE:
+To provide monthly financial assistance to widows from Below Poverty Line (BPL) families to meet their basic needs and ensure social security.
+
+ELIGIBILITY CRITERIA:
+- Must be a widow (husband deceased)
+- Must be between 40 and 79 years of age (beneficiaries aged 80+ covered under separate old-age pension scheme; some states start from age 18)
+- Must belong to a family living Below the Poverty Line (BPL) as per Government of India criteria
+- Must NOT have remarried
+- Must not be already receiving other social welfare pensions (generally)
+
+BENEFITS:
+- Central Government pension: ₹300 per month (for ages 40-79)
+- State Government top-up: States are advised to contribute at least equal amount
+- Total monthly pension varies by state: ₹300 to ₹4,000 depending on state policies
+- Payments via Direct Benefit Transfer (DBT) into Aadhaar-linked bank/post office account
+
+DOCUMENTS REQUIRED:
+- Death certificate of husband
+- Age proof (birth certificate, school certificate, etc.)
+- BPL Ration Card (proof of BPL status)
+- Aadhaar Card
+- Bank/post office account details
+- Passport-size photographs
+- Widow certificate (if applicable in state)
+
+APPLICATION PROCESS:
+1. Obtain prescribed application form from local Gram Panchayat, Ward Office, Municipality, or Block Development Office
+2. Fill in the form with required details
+3. Attach all necessary documents
+4. Submit to local authority
+5. Local authorities conduct inquiry to verify application
+6. Upon verification, beneficiary added to official list
+7. Pension credited via DBT
+
+For information: Visit official NSAP portal at nsap.nic.in or local social welfare office
+
+RETRIEVAL DATE: 2026-07-12

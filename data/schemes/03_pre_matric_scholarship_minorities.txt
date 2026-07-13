@@ -1,0 +1,41 @@
+SCHEME NAME: Pre-Matric Scholarship Scheme for Minorities
+SCHEME NAME (HINDI): अल्पसंख्यकों के लिए प्री-मैट्रिक छात्रवृत्ति योजना
+SOURCE URL: https://www.myscheme.gov.in/schemes/pre-matric-scholarship-minorities
+OFFICIAL PORTAL: https://scholarships.gov.in
+CATEGORY: Education / Scholarship
+LEVEL: Central Government
+IMPLEMENTING MINISTRY: Ministry of Minority Affairs
+
+OBJECTIVE:
+To support students from notified minority communities in their formative educational years (Class 1 to Class 10) and to prevent school dropouts due to financial constraints.
+
+ELIGIBILITY CRITERIA:
+- Must belong to one of the notified minority communities: Muslims, Christians, Sikhs, Buddhists, Jains, or Parsis (Zoroastrians)
+- Must be studying in Class 1 to Class 10 in a government or private school in India
+- Must have secured at least 50% marks in the previous final examination (not applicable for Class 1 admission)
+- Annual family income must NOT exceed ₹1,00,000 (₹1 Lakh)
+- 30% of scholarships reserved for girl students
+
+BENEFITS:
+- Admission/Tuition Fee: Coverage of admission and tuition fees subject to government ceilings
+- Maintenance Allowance: Monthly allowance provided (higher amounts for hostellers)
+- Direct Benefit Transfer (DBT) into beneficiary's bank account
+
+DOCUMENTS REQUIRED:
+- Self-declaration of belonging to minority community
+- Mark sheets from previous qualifying examination (showing 50%+ marks)
+- Income Certificate (annual family income ≤ ₹1,00,000)
+- Aadhaar Card
+- Bank account details
+- School enrollment proof
+- Passport-size photographs
+
+APPLICATION PROCESS:
+1. Visit the National Scholarship Portal (NSP) at scholarships.gov.in
+2. Complete One-Time Registration (OTR)
+3. Fill out the Pre-Matric Scholarship for Minorities application form
+4. Upload required documents
+5. Submit for verification by school/institute
+6. Scholarship disbursed directly via DBT
+
+RETRIEVAL DATE: 2026-07-12

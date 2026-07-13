@@ -1,0 +1,39 @@
+SCHEME NAME: PM Kisan Samman Nidhi (PM-KISAN)
+SCHEME NAME (HINDI): प्रधानमंत्री किसान सम्मान निधि (पीएम-किसान)
+SOURCE URL: https://pmkisan.gov.in
+OFFICIAL PORTAL: https://pmkisan.gov.in
+CATEGORY: Agriculture / Welfare
+LEVEL: Central Government (Central Sector Scheme)
+IMPLEMENTING MINISTRY: Ministry of Agriculture and Farmers Welfare
+
+OBJECTIVE:
+To provide income support to all landholding farmer families across India to supplement their financial needs for procuring various inputs related to agriculture and allied activities.
+
+ELIGIBILITY CRITERIA:
+- Must be a landholding farmer family owning cultivable agricultural land
+- Land must be in the beneficiary's name
+- NOT eligible: institutional landholders; former/present constitutional post holders; former/present Ministers, MPs, MLAs, MLCs, Mayors, District Panchayat Chairpersons; serving/retired government officers (excluding multi-tasking staff/Class IV/Group D); superannuated pensioners with monthly pension ≥ ₹10,000; income taxpayers; professionals (doctors, engineers, lawyers, CAs, architects)
+
+BENEFITS:
+- ₹6,000 per year
+- Transferred in three equal installments of ₹2,000 every four months
+- Direct Benefit Transfer (DBT) into beneficiary's bank account
+- e-KYC mandatory for continued installments
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card (mandatory for identity verification and e-KYC)
+- Bank Account Details (active savings account, Aadhaar-linked preferred for DBT)
+- Land Ownership Records (Khata, Khasra, Jamabandi, or Patta proving cultivable land ownership)
+- Aadhaar-linked Mobile Number (for OTP verification)
+
+APPLICATION PROCESS:
+1. Visit official PM-KISAN website at pmkisan.gov.in
+2. Go to "Farmers Corner" → "New Farmer Registration"
+3. Enter Aadhaar number, state, and mobile number
+4. Fill in personal and land-related details
+5. Upload land ownership documents and submit
+6. State/UT government verifies details
+7. Benefits credited to Aadhaar-seeded bank account upon verification
+8. e-KYC can be completed online via PM-KISAN portal, mobile app, or at a Common Service Center (CSC)
+
+RETRIEVAL DATE: 2026-07-12

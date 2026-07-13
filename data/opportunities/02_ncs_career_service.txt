@@ -1,0 +1,55 @@
+SCHEME NAME: National Career Service (NCS) Portal
+SCHEME NAME (HINDI): राष्ट्रीय करियर सेवा (NCS) पोर्टल
+SOURCE URL: https://www.ncs.gov.in
+OFFICIAL PORTAL: https://www.ncs.gov.in
+CATEGORY: Employment / Career Services
+LEVEL: Central Government
+IMPLEMENTING MINISTRY: Ministry of Labour and Employment
+
+OBJECTIVE:
+To act as a one-stop digital platform bridging the gap between job seekers, employers, career counselors, and skill providers. Provides technology-driven job matching, career guidance, and skill development resources.
+
+ELIGIBILITY:
+- Registration is free of charge
+- Open to all Indian job seekers
+- No income or category restrictions
+
+KEY FEATURES FOR JOB SEEKERS:
+- Advanced job search and matching (government + private sector)
+- Career guidance and counselling
+- Psychometric tests for career assessment
+- Integration with Skill India Digital Hub (SIDH) for free online training
+- Information on internships, apprenticeships, job fairs
+- Personalized dashboard for profile, CV upload, NCS Registration Card
+- Multilingual support (multiple Indian languages)
+- Both public and private sector job listings
+
+SERVICES PROVIDED:
+1. Job Matching: Technology-driven matching based on skills, location, and preferences
+2. Career Counselling: Expert advice and vocational guidance
+3. Skill Development: Free online training and upskilling courses
+4. Job Fairs: Information about local and national job fairs
+5. Apprenticeship: Connections to apprenticeship opportunities
+6. International Employment: Guidance for overseas job opportunities
+
+REGISTRATION PROCESS:
+1. Visit www.ncs.gov.in
+2. Click "Login/Signup" → select "Register" as "Jobseeker"
+3. Provide unique ID (PAN card, Voter ID, Passport, Driving License, or UAN number)
+4. Verify mobile number via OTP
+5. Complete profile: education, experience, key skills
+6. Keep profile updated for better job recommendations
+
+DOCUMENTS REQUIRED:
+- Any government ID (PAN, Voter ID, Passport, Driving License, or UAN)
+- Mobile number
+- Email address (recommended)
+- Educational certificates (for profile completion)
+
+SPECIAL FEATURES:
+- NCS 2.0: Incorporates AI and Machine Learning for smarter job matching
+- Support for differently-abled individuals
+- Youth-specific guidance and job listings
+- No charges or fees at any stage
+
+RETRIEVAL DATE: 2026-07-12

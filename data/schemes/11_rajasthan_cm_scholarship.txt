@@ -1,0 +1,46 @@
+SCHEME NAME: Mukhyamantri Ucch Shiksha Scholarship Yojana (Chief Minister Higher Education Scholarship)
+SCHEME NAME (HINDI): मुख्यमंत्री उच्च शिक्षा छात्रवृत्ति योजना
+SOURCE URL: https://sje.rajasthan.gov.in
+OFFICIAL PORTAL: https://sso.rajasthan.gov.in
+CATEGORY: Education / Scholarship
+LEVEL: State Government (Rajasthan)
+IMPLEMENTING DEPARTMENT: Department of College Education, Government of Rajasthan
+
+OBJECTIVE:
+To provide financial assistance to meritorious students from economically weaker sections to help them pursue undergraduate, postgraduate, or research (PhD) studies in Rajasthan.
+
+ELIGIBILITY CRITERIA:
+- Must be a permanent resident of Rajasthan
+- Must have passed Class 12 examination from Board of Secondary Education, Rajasthan (BSER), Ajmer
+- Must have scored at least 60% marks in Class 12
+- Must have secured a position within top 1 lakh in board's merit list
+- Annual family income must NOT exceed ₹2,50,000
+- Must be a regular student in government or recognized non-government higher/technical educational institution within Rajasthan
+- Must NOT be receiving any other government scholarship or financial assistance
+- Must have valid Jan Aadhaar card, Aadhaar card, and bank account in nationalized bank
+
+BENEFITS:
+- Standard Scholarship: ₹500 per month (maximum 10 months) = ₹5,000 per year
+- Divyang (Differently-Abled) Students: ₹1,000 per month (maximum 10 months) = ₹10,000 per year (for disability of 40% or more)
+- Duration: Maximum 5 years of continuous regular higher education
+
+DOCUMENTS REQUIRED:
+- Jan Aadhaar Card (mandatory for online application)
+- Aadhaar Card
+- Class 12 Mark Sheet (showing 60%+ marks and merit position)
+- Income Certificate (annual family income ≤ ₹2,50,000)
+- Domicile Certificate
+- College enrollment proof / Bonafide Certificate
+- Bank Account Details (nationalized bank)
+- Disability Certificate (if applicable, showing 40%+ disability)
+
+APPLICATION PROCESS:
+1. Visit Rajasthan SSO portal at sso.rajasthan.gov.in
+2. Log in with SSO credentials or register as new user
+3. Navigate to "Scholarship" section under Department of College Education
+4. Fill out application form
+5. Upload required documents (income certificate, disability certificate if applicable)
+6. Submit application
+7. Application verified by educational institution and forwarded to nodal officer
+
+RETRIEVAL DATE: 2026-07-12

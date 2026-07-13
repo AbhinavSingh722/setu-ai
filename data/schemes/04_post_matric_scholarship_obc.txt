@@ -1,0 +1,42 @@
+SCHEME NAME: Post-Matric Scholarship for Other Backward Classes (OBC) Students
+SCHEME NAME (HINDI): अन्य पिछड़ा वर्ग के छात्रों के लिए पोस्ट मैट्रिक छात्रवृत्ति
+SOURCE URL: https://www.myscheme.gov.in/schemes/pms-obc
+OFFICIAL PORTAL: https://scholarships.gov.in
+CATEGORY: Education / Scholarship
+LEVEL: Central Government (Centrally Sponsored Scheme)
+IMPLEMENTING MINISTRY: Ministry of Social Justice and Empowerment
+
+OBJECTIVE:
+To provide financial assistance to OBC students pursuing post-matriculation or post-secondary studies within India and to reduce dropout rates.
+
+ELIGIBILITY CRITERIA:
+- Must belong to Other Backward Classes (OBC) category
+- Must be enrolled in a government-recognized post-matriculation or post-secondary course (Class 11, 12, UG, PG, diploma, professional/technical degrees)
+- Must be an Indian citizen
+- Annual family income must NOT exceed ₹2,50,000
+- Minimum 75% attendance in previous academic year typically required
+- Must not be receiving scholarship from any other source
+
+BENEFITS:
+- Maintenance Allowance: Monthly or annual stipends (varying by course level, hosteller/day scholar)
+- Tuition/Academic Fees: Reimbursement of non-refundable tuition and compulsory academic fees
+- Direct Benefit Transfer (DBT) into Aadhaar-seeded bank account
+
+DOCUMENTS REQUIRED:
+- Valid OBC Certificate (non-creamy layer)
+- Income Certificate (annual family income ≤ ₹2,50,000)
+- Mark sheets from previous qualifying examination
+- Fee receipts
+- Aadhaar Card
+- Bank account details (Aadhaar-linked)
+- Enrollment proof from institution
+
+APPLICATION PROCESS:
+1. Visit the National Scholarship Portal (NSP) at scholarships.gov.in
+2. Register/Login on the NSP portal
+3. Fill in the application form with personal, academic, and family income details
+4. Upload required documents (OBC certificate, income certificate, mark sheets, fee receipts)
+5. Submit and ensure verification by educational institution
+6. Application verified by State Nodal Agency
+
+RETRIEVAL DATE: 2026-07-12

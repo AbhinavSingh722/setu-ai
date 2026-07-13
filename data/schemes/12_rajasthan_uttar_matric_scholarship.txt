@@ -1,0 +1,48 @@
+SCHEME NAME: Rajasthan Uttar Matric Scholarship (Post-Matric Scholarship for SC/ST/OBC)
+SCHEME NAME (HINDI): राजस्थान उत्तर मैट्रिक छात्रवृत्ति
+SOURCE URL: https://sje.rajasthan.gov.in
+OFFICIAL PORTAL: https://sso.rajasthan.gov.in
+CATEGORY: Education / Scholarship
+LEVEL: State Government (Rajasthan)
+IMPLEMENTING DEPARTMENT: Social Justice and Empowerment Department (SJE), Government of Rajasthan
+
+OBJECTIVE:
+To support students from disadvantaged communities (SC, ST, OBC, EBC, SBC/MBC, DNT) in pursuing higher education by providing financial assistance through scholarships.
+
+ELIGIBILITY CRITERIA:
+- Must be a permanent resident of Rajasthan
+- Must belong to SC, ST, OBC, EBC, SBC/MBC, or Denotified Tribes (DNT) category
+- Must be enrolled in recognized government or private institution for post-matric courses (ITI, Polytechnic, UG, PG, B.Ed, etc.)
+- Annual family income must NOT exceed ₹2,50,000 for SC/ST/SBC students (limits for other categories may vary, often ₹1 lakh to ₹2.5 lakh)
+- Must have passed previous qualifying examination
+- Must have valid Jan Aadhaar card with updated e-KYC
+
+BENEFITS:
+- Fee Reimbursement: 100% reimbursement of compulsory non-refundable tuition fees in government/aided colleges
+- Maintenance Allowance: Monthly financial support via DBT (₹250 to ₹1,200/month depending on course level and hosteller/day scholar status)
+- Additional Allowances: study tours, book allowances, thesis assistance, special provisions for disabled students (varies by course and scheme)
+- Free-Ship Card: SC, OBC, EBC, DNT students can apply to secure admission without upfront fee payment
+
+DOCUMENTS REQUIRED:
+- Jan Aadhaar Card (mandatory, with updated e-KYC)
+- Aadhaar Card
+- Caste Certificate (digital, valid for respective category)
+- Income Certificate (annual family income within limit)
+- Domicile Certificate
+- Previous qualification mark sheets
+- College enrollment proof
+- Bank Account Details (Aadhaar-linked)
+
+APPLICATION PROCESS:
+1. Visit SJE Scholarship Portal at sje.rajasthan.gov.in OR Rajasthan SSO Portal at sso.rajasthan.gov.in
+2. Log in/Register using Jan Aadhaar ID
+3. Select "Scholarship (SJE)" app icon
+4. Fill in required details and upload documents
+5. Submit application
+6. Track application status through SJE portal
+
+HELP DESK:
+- Phone: 1800-180-6127
+- Email: helpdesk.scholarship@rajasthan.gov.in
+
+RETRIEVAL DATE: 2026-07-12

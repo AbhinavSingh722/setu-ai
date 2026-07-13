@@ -1,0 +1,47 @@
+SCHEME NAME: Rajasthan Palanhar Yojana
+SCHEME NAME (HINDI): राजस्थान पालनहार योजना
+SOURCE URL: https://sje.rajasthan.gov.in
+OFFICIAL PORTAL: https://sje.rajasthan.gov.in
+CATEGORY: Child Welfare / Social Security
+LEVEL: State Government (Rajasthan)
+IMPLEMENTING DEPARTMENT: Social Justice and Empowerment Department, Government of Rajasthan
+
+OBJECTIVE:
+To provide financial assistance for the upbringing and education of orphan children and other vulnerable categories, ensuring they grow up in a family environment rather than an institution.
+
+ELIGIBILITY CRITERIA:
+- Child and caretaker (Palanhar) must be residents of Rajasthan for at least 3 years
+- Annual income of caretaker's family must NOT exceed ₹1,20,000 (₹1.2 lakh)
+- Children aged 0-6 years must be enrolled in an Anganwadi
+- Children aged 6-18 years must be enrolled in a school
+- Eligible categories: orphans; children of parents sentenced to death/life imprisonment; children of widowed mothers (up to 3 children); and other vulnerable groups as defined by department
+- Caretaker must have Aadhaar-linked bank account for DBT
+
+BENEFITS:
+- Children aged 0-6 years: ₹1,500 per month
+- Children aged 6-18 years: ₹2,500 per month
+- Additional Annual Grant: ₹2,000 per year (for books, stationery, clothes, shoes, etc.)
+- Payments via Direct Benefit Transfer (DBT)
+
+MANDATORY ANNUAL REQUIREMENT:
+- Must submit school/Anganwadi continuation certificate annually (typically in July) for uninterrupted payments
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card of both child and caretaker
+- Death certificate of parents (or relevant proof for other categories)
+- Income Certificate (annual family income ≤ ₹1,20,000)
+- Proof of residence (3+ years in Rajasthan)
+- School/Anganwadi enrollment certificate
+- Bank Account Details (Aadhaar-linked)
+- Passport-size photographs
+
+APPLICATION PROCESS:
+1. Apply online via sje.rajasthan.gov.in OR
+2. Visit nearest e-Mitra kiosk for application assistance
+3. Submit all required documents
+4. Application verified by district-level SJE Department
+5. Monthly payments begin upon verification
+
+For status checks: Visit Jan Soochna Portal or contact district SJE office
+
+RETRIEVAL DATE: 2026-07-12

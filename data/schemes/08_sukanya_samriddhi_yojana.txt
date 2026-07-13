@@ -1,0 +1,46 @@
+SCHEME NAME: Sukanya Samriddhi Yojana (SSY)
+SCHEME NAME (HINDI): सुकन्या समृद्धि योजना
+SOURCE URL: https://www.indiapost.gov.in
+OFFICIAL PORTAL: https://www.indiapost.gov.in
+CATEGORY: Financial Savings / Girl Child Welfare
+LEVEL: Central Government
+IMPLEMENTING MINISTRY: Ministry of Finance
+
+OBJECTIVE:
+To encourage parents to build a fund for the future education and marriage expenses of their girl child through a government-backed small savings scheme offering high interest rates and tax benefits.
+
+ELIGIBILITY CRITERIA:
+- Account can be opened for a girl child below 10 years of age
+- The girl child must be an Indian resident
+- Non-Resident Indians (NRIs) are NOT eligible
+- Maximum 2 accounts per family (one per girl child)
+- Third account allowed in case of twins or triplets
+- Account opened by parent or legal guardian
+
+BENEFITS:
+- Interest Rate: 8.2% per annum (reviewed quarterly by Government of India), compounded annually
+- Tax Benefits (EEE - Exempt-Exempt-Exempt):
+  - Investment: Tax deduction up to ₹1.5 lakh/year under Section 80C
+  - Interest earned: Tax-free
+  - Maturity amount: Tax-exempt
+- Investment Limits: Minimum ₹250/year, Maximum ₹1.5 lakh/year
+- Maturity: 21 years from date of opening
+- Deposits required only for first 15 years
+- Partial withdrawal (up to 50%) allowed for girl's higher education after Class 10 or age 18
+- Premature closure allowed for marriage after age 18
+
+DOCUMENTS REQUIRED:
+- Birth certificate of the girl child
+- Identity proof of parent/legal guardian (Aadhaar, PAN, etc.)
+- Address proof of parent/legal guardian
+- PAN card of guardian
+- Passport-size photographs
+
+APPLICATION PROCESS:
+1. Visit any authorized commercial bank branch or India Post office
+2. Fill in account opening form
+3. Submit required documents
+4. Make initial deposit (minimum ₹250)
+5. Account passbook will be issued
+
+RETRIEVAL DATE: 2026-07-12
