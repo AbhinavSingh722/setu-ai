@@ -521,7 +521,7 @@ elif page == "💬 Chat":
                         elif conf >= 0.4: st.warning(f"⚠️ Confidence: {conf:.0%} — Some claims need manual check")
                         else: st.error(f"❌ Confidence: {conf:.0%} — Please verify independently")
                 else:
-                    response = f"⚠️ Error: {payload}\n\nEnsure Ollama is running with granite3.3:8b."
+                    response = f"⚠️ Error: {payload}\n\nEnsure Ollama is running with granite3.3:8b OR add GROQ_API_KEY to your Streamlit secrets."
                     st.error(response)
                     
             except Exception as e:
@@ -662,20 +662,20 @@ elif page == "ℹ️ How It Works":
     st.markdown("SETU uses **5 specialized AI agents** powered by **IBM Granite 3.3** to process your query.")
     
     st.markdown("""<div style="display:flex; align-items:center; justify-content:center; gap:0.3rem; margin:1rem 0 2rem; flex-wrap:wrap;">
-        <div style="display:flex; flex-direction:column; align-items:center; padding:0.8rem 0.6rem; border-radius:12px; min-width:100px; text-align:center; background:#EEF2FF;">
-            <span style="font-size:1.5rem;">🌐</span><span style="font-size:0.72rem; font-weight:600; color:#4338CA !important;">Language<br/>Detection</span></div>
-        <span style="font-size:1.2rem; color:#D1D5DB;">→</span>
-        <div style="display:flex; flex-direction:column; align-items:center; padding:0.8rem 0.6rem; border-radius:12px; min-width:100px; text-align:center; background:#FFF7ED;">
-            <span style="font-size:1.5rem;">🔍</span><span style="font-size:0.72rem; font-weight:600; color:#C2410C !important;">Scheme<br/>Matching</span></div>
-        <span style="font-size:1.2rem; color:#D1D5DB;">→</span>
-        <div style="display:flex; flex-direction:column; align-items:center; padding:0.8rem 0.6rem; border-radius:12px; min-width:100px; text-align:center; background:#F0FDF4;">
-            <span style="font-size:1.5rem;">✅</span><span style="font-size:0.72rem; font-weight:600; color:#166534 !important;">Fact<br/>Verification</span></div>
-        <span style="font-size:1.2rem; color:#D1D5DB;">→</span>
-        <div style="display:flex; flex-direction:column; align-items:center; padding:0.8rem 0.6rem; border-radius:12px; min-width:100px; text-align:center; background:#FDF2F8;">
-            <span style="font-size:1.5rem;">💼</span><span style="font-size:0.72rem; font-weight:600; color:#BE185D !important;">Opportunity<br/>Search</span></div>
-        <span style="font-size:1.2rem; color:#D1D5DB;">→</span>
-        <div style="display:flex; flex-direction:column; align-items:center; padding:0.8rem 0.6rem; border-radius:12px; min-width:100px; text-align:center; background:#FFFBEB;">
-            <span style="font-size:1.5rem;">📝</span><span style="font-size:0.72rem; font-weight:600; color:#92400E !important;">Action<br/>Plan</span></div>
+        <div style="display:flex; flex-direction:column; align-items:center; padding:0.8rem 0.6rem; border-radius:12px; min-width:110px; text-align:center; background:#EEF2FF;">
+            <span style="font-size:1.8rem;">🌐</span><span style="font-size:0.8rem; font-weight:700; color:#4338CA; -webkit-text-fill-color:#4338CA;">Language<br/>Detection</span></div>
+        <span style="font-size:1.4rem; color:#9CA3AF; -webkit-text-fill-color:#9CA3AF;">→</span>
+        <div style="display:flex; flex-direction:column; align-items:center; padding:0.8rem 0.6rem; border-radius:12px; min-width:110px; text-align:center; background:#FFF7ED;">
+            <span style="font-size:1.8rem;">🔍</span><span style="font-size:0.8rem; font-weight:700; color:#C2410C; -webkit-text-fill-color:#C2410C;">Scheme<br/>Matching</span></div>
+        <span style="font-size:1.4rem; color:#9CA3AF; -webkit-text-fill-color:#9CA3AF;">→</span>
+        <div style="display:flex; flex-direction:column; align-items:center; padding:0.8rem 0.6rem; border-radius:12px; min-width:110px; text-align:center; background:#F0FDF4;">
+            <span style="font-size:1.8rem;">✅</span><span style="font-size:0.8rem; font-weight:700; color:#166534; -webkit-text-fill-color:#166534;">Fact<br/>Verification</span></div>
+        <span style="font-size:1.4rem; color:#9CA3AF; -webkit-text-fill-color:#9CA3AF;">→</span>
+        <div style="display:flex; flex-direction:column; align-items:center; padding:0.8rem 0.6rem; border-radius:12px; min-width:110px; text-align:center; background:#FDF2F8;">
+            <span style="font-size:1.8rem;">💼</span><span style="font-size:0.8rem; font-weight:700; color:#BE185D; -webkit-text-fill-color:#BE185D;">Opportunity<br/>Search</span></div>
+        <span style="font-size:1.4rem; color:#9CA3AF; -webkit-text-fill-color:#9CA3AF;">→</span>
+        <div style="display:flex; flex-direction:column; align-items:center; padding:0.8rem 0.6rem; border-radius:12px; min-width:110px; text-align:center; background:#FFFBEB;">
+            <span style="font-size:1.8rem;">📝</span><span style="font-size:0.8rem; font-weight:700; color:#92400E; -webkit-text-fill-color:#92400E;">Action<br/>Plan</span></div>
     </div>""", unsafe_allow_html=True)
     
     agents_info = [

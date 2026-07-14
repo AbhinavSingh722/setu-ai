@@ -10,6 +10,10 @@ from dataclasses import dataclass, field
 from typing import Optional
 
 from langchain_ollama import ChatOllama
+try:
+    from langchain_groq import ChatGroq
+except ImportError:
+    ChatGroq = None
 from langchain_core.messages import HumanMessage, SystemMessage
 
 import sys
@@ -59,12 +63,22 @@ class OpportunityAgent:
         base_url: str = OLLAMA_BASE_URL,
     ):
         self.store = vector_store or SetuVectorStore()
-        self.llm = ChatOllama(
-            model=model_name,
-            base_url=base_url,
-            temperature=0.1,
-            num_predict=512,
-        )
+        
+        groq_api_key = os.getenv("GROQ_API_KEY")
+        if groq_api_key and ChatGroq:
+            self.llm = ChatGroq(
+                model="llama3-8b-8192",
+                api_key=groq_api_key,
+                temperature=0.1,
+                max_tokens=512,
+            )
+        else:
+            self.llm = ChatOllama(
+                model=model_name,
+                base_url=base_url,
+                temperature=0.1,
+                num_predict=512,
+            )
     
     def run(self, query: str, user_profile: dict = None) -> OpportunityResult:
         """Search for relevant opportunities."""

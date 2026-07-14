@@ -16,6 +16,10 @@ from dataclasses import dataclass, field
 from typing import Optional
 
 from langchain_ollama import ChatOllama
+try:
+    from langchain_groq import ChatGroq
+except ImportError:
+    ChatGroq = None
 from langchain_core.messages import HumanMessage, SystemMessage
 
 # Add parent directory to path for imports
@@ -108,13 +112,22 @@ class EligibilityAgent:
         else:
             self.store = SetuVectorStore()
         
-        # Initialize Granite LLM via Ollama
-        self.llm = ChatOllama(
-            model=model_name,
-            base_url=base_url,
-            temperature=0.1,  # Low temperature for factual accuracy
-            num_predict=1024,
-        )
+        # Initialize LLM (Groq if available, else Ollama)
+        groq_api_key = os.getenv("GROQ_API_KEY")
+        if groq_api_key and ChatGroq:
+            self.llm = ChatGroq(
+                model="llama3-8b-8192",
+                api_key=groq_api_key,
+                temperature=0.1,
+                max_tokens=1024,
+            )
+        else:
+            self.llm = ChatOllama(
+                model=model_name,
+                base_url=base_url,
+                temperature=0.1,  # Low temperature for factual accuracy
+                num_predict=1024,
+            )
     
     def retrieve_context(self, query: str, n_results: int = None) -> list[RetrievalResult]:
         """Retrieve relevant chunks from ChromaDB."""
