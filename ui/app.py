@@ -138,6 +138,14 @@ header[data-testid="stHeader"] {background: transparent;}
 .sb-card h4 { color: #FFB366 !important; font-size: 0.85rem; margin: 0 0 0.4rem; }
 .sb-card p { font-size: 0.78rem; opacity: 0.8; margin: 0; line-height: 1.5; }
 
+/* Profile badges in sidebar */
+.profile-badge {
+    display: inline-block; padding: 3px 10px; border-radius: 12px; font-size: 0.75rem;
+    font-weight: 600; margin: 2px 3px; background: rgba(255,153,51,0.2) !important;
+    color: #FFB366 !important; border: 1px solid rgba(255,153,51,0.35);
+}
+.profile-summary { background: rgba(255,255,255,0.04); border: 1px solid rgba(255,153,51,0.12); border-radius: 10px; padding: 0.6rem; margin: 0.3rem 0 0.5rem; }
+
 /* Scheme cards for explorer — force light bg for dark mode */
 .scheme-card { background: #FFFAF5 !important; border: 1px solid #FFE0B2; border-radius: 16px; padding: 1.2rem; margin-bottom: 1rem; transition: all 0.3s; color: #2D1B00 !important; }
 .scheme-card:hover { box-shadow: 0 8px 30px rgba(255,153,51,0.15); border-color: #FF9933; }
@@ -271,20 +279,23 @@ with st.sidebar:
     page = st.radio("", PAGES, key="nav_page", label_visibility="collapsed")
     
     st.divider()
-    
     # User Profile Summary (conversation memory)
+    
     if st.session_state.user_profile:
         st.markdown("### 👤 Your Profile")
         p = st.session_state.user_profile
         badges = []
         if p.get("category"): badges.append(p["category"])
         if p.get("state"): badges.append(p["state"])
-        if p.get("income"): badges.append(f"Income: {p['income']}")
+        if p.get("income"): badges.append(f"₹ {p['income']}")
         if p.get("education"): badges.append(p["education"])
         if p.get("gender"): badges.append(p["gender"])
-        for b in badges:
-            st.markdown(f'<span class="profile-badge">{b}</span>', unsafe_allow_html=True)
-        if st.button("Clear Profile", key="clear_profile"):
+        if p.get("age"): badges.append(f"Age: {p['age']}")
+        badge_style = "display:inline-block;padding:3px 10px;border-radius:12px;font-size:0.75rem;font-weight:600;margin:2px 3px;background:rgba(255,153,51,0.25);color:#FFB366;border:1px solid rgba(255,153,51,0.4);"
+        badges_html = " ".join(f'<span style="{badge_style}">{b}</span>' for b in badges)
+        box_style = "background:rgba(255,255,255,0.04);border:1px solid rgba(255,153,51,0.15);border-radius:10px;padding:0.6rem;margin:0.3rem 0 0.5rem;"
+        st.markdown(f'<div style="{box_style}">{badges_html}</div>', unsafe_allow_html=True)
+        if st.button("🗑️ Clear Profile", key="clear_profile"):
             st.session_state.user_profile = {}
             st.rerun()
     
