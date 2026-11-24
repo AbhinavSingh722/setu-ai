@@ -1,0 +1,50 @@
+SCHEME NAME: National Food Security Act (NFSA) / Free Ration Scheme
+SCHEME NAME (HINDI): राष्ट्रीय खाद्य सुरक्षा अधिनियम (एनएफएसए) / मुफ्त राशन योजना
+SOURCE URL: https://nfsa.gov.in
+OFFICIAL PORTAL: https://nfsa.gov.in
+CATEGORY: Food Security / Welfare
+LEVEL: Central Government (Central Act)
+IMPLEMENTING MINISTRY: Ministry of Consumer Affairs, Food and Public Distribution
+
+OBJECTIVE:
+To provide subsidized/free foodgrains to approximately two-thirds of India's population (about 81.35 crore people) through the Targeted Public Distribution System (TPDS), ensuring food security for the most vulnerable sections of society.
+
+ELIGIBILITY CRITERIA:
+- Households identified under state-specific criteria for inclusion in NFSA beneficiary list
+- Two categories: Priority Households (PHH) and Antyodaya Anna Yojana (AAY) households
+- AAY: Poorest of the poor families including destitute, widows, terminally ill, disabled, 60+ age households, primitive tribal groups, landless labourers, marginal farmers
+- PHH: Identified by state governments based on deprivation parameters
+- Existing BPL and AAY ration card holders are typically covered
+- Pregnant women and lactating mothers get additional entitlement
+- Children aged 6 months to 14 years get free meals through Mid-Day Meal and ICDS
+
+BENEFITS:
+- AAY households: 35 kg of foodgrains per family per month at:
+  - Rice: Rs 3/kg → now FREE (under PM Garib Kalyan Anna Yojana extended to Dec 2028)
+  - Wheat: Rs 2/kg → now FREE
+  - Coarse grains: Rs 1/kg → now FREE
+- PHH: 5 kg of foodgrains per person per month → now FREE
+- Pregnant women and lactating mothers: Free meal at Anganwadi + Rs 6,000 maternity benefit
+- Children 6-14 years: Free hot cooked meal or take-home ration through Anganwadi/schools
+- Under PMGKAY extension: All NFSA beneficiaries get free ration (no charge at all)
+- Coverage: 75% rural and 50% urban population
+
+DOCUMENTS REQUIRED:
+- Ration Card (PHH or AAY category)
+- Aadhaar Card (for biometric authentication at Fair Price Shop)
+- Family details registered in ration card
+- If not on NFSA list: apply for new ration card through state food department portal
+
+APPLICATION PROCESS:
+1. Check if you have an existing ration card — visit your state's PDS/food department portal
+2. If not covered: Apply for a new ration card at state food department portal or district food office
+3. Fill ration card application form (online or offline)
+4. Submit with Aadhaar, address proof, income proof, and family details
+5. After verification, ration card issued with NFSA category (PHH or AAY)
+6. Collect monthly ration from designated Fair Price Shop (FPS)
+7. Biometric authentication via Aadhaar at the FPS (Aadhaar-enabled PDS)
+8. To check entitlement: SMS or call 1967 (TPDS helpline)
+9. Mera Ration App — download for portability and nearest FPS location
+10. Helpline: 1800-11-0841 (toll-free)
+
+RETRIEVAL DATE: 2026-11-20

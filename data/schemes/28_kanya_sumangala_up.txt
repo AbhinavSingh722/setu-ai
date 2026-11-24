@@ -1,0 +1,51 @@
+SCHEME NAME: Mukhyamantri Kanya Sumangala Yojana (MKSY)
+SCHEME NAME (HINDI): मुख्यमंत्री कन्या सुमंगला योजना (एमकेएसवाई)
+SOURCE URL: https://mksy.up.gov.in
+OFFICIAL PORTAL: https://mksy.up.gov.in
+CATEGORY: Girl Child Welfare / Education
+LEVEL: State Government (Uttar Pradesh)
+IMPLEMENTING DEPARTMENT: Department of Women and Child Development, Government of Uttar Pradesh
+
+OBJECTIVE:
+To provide financial assistance at different stages of a girl child's life — from birth to graduation — to promote positive thinking towards girl children, reduce female foeticide, improve health and educational outcomes, and empower girls.
+
+ELIGIBILITY CRITERIA:
+- Must be a resident of Uttar Pradesh
+- Annual family income should not exceed Rs 3 lakh
+- Maximum two girl children in a family are eligible (3 girls eligible if twins in second delivery)
+- Girl child must be born on or after 01 April 2019
+- Benefit available from birth to graduation in 6 stages
+- Family should not have more than 2 children (excluding twins)
+
+BENEFITS:
+- Total benefit of Rs 25,000 (recently enhanced from Rs 15,000) per girl child in 6 installments:
+  - Stage 1: Rs 5,000 on the birth of the girl child
+  - Stage 2: Rs 2,000 when the girl completes all vaccinations (by age 1)
+  - Stage 3: Rs 3,000 when the girl child is admitted to Class 1
+  - Stage 4: Rs 3,000 when the girl child is admitted to Class 6
+  - Stage 5: Rs 5,000 when the girl child is admitted to Class 9
+  - Stage 6: Rs 7,000 when the girl child passes 10th/12th and takes admission in graduate degree or 2-year diploma
+- Amount transferred via DBT to mother's/guardian's bank account
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card (of parents/guardian and girl child if available)
+- Birth Certificate of the girl child
+- Bank Account details (mother's or guardian's, Aadhaar-linked)
+- Family photograph
+- Address proof (Voter ID / Ration Card / Utility Bill)
+- Income Certificate (annual income not exceeding Rs 3 lakh)
+- Affidavit declaring number of children in the family
+- School admission proof (for stages 3-6)
+
+APPLICATION PROCESS:
+1. Visit https://mksy.up.gov.in and register with mobile number
+2. Login and fill the online application form
+3. Upload required documents
+4. Submit and note the application ID
+5. Application verified by District Probation Officer (DPO)
+6. After approval, amount credited to bank account for each stage
+7. For subsequent stages, apply online when the girl reaches that milestone
+8. Offline applications can also be submitted at SDM office or Block Development Office
+9. Helpline: 18001800 (toll-free UP Women Helpline)
+
+RETRIEVAL DATE: 2026-11-20

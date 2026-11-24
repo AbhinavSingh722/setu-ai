@@ -353,9 +353,14 @@ def build_orchestrator() -> StateGraph:
     return graph
 
 
-def run_setu(user_message: str) -> dict:
+def run_setu(user_message: str, conversation_history: list = None, user_profile: dict = None) -> dict:
     """
     Run the full SETU pipeline on a user message.
+    
+    Args:
+        user_message: The user's query (may include context annotations)
+        conversation_history: Previous messages for multi-turn context
+        user_profile: Saved user profile from the UI
     
     Returns the final state dict with all agent outputs.
     """
@@ -366,7 +371,7 @@ def run_setu(user_message: str) -> dict:
         "user_message": user_message,
         "detected_language": "en",
         "intent": "",
-        "user_profile": {},
+        "user_profile": user_profile or {},
         "query_en": "",
         "intake": None,
         "eligibility": None,

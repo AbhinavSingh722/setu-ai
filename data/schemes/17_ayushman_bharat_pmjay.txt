@@ -1,0 +1,45 @@
+SCHEME NAME: Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)
+SCHEME NAME (HINDI): आयुष्मान भारत प्रधानमंत्री जन आरोग्य योजना (एबी-पीएमजेएवाई)
+SOURCE URL: https://pmjay.gov.in
+OFFICIAL PORTAL: https://pmjay.gov.in
+CATEGORY: Health Insurance / Welfare
+LEVEL: Central Government (Centrally Sponsored Scheme)
+IMPLEMENTING MINISTRY: Ministry of Health and Family Welfare
+
+OBJECTIVE:
+To provide free health insurance coverage of up to Rs 5 lakh per family per year to economically vulnerable families for secondary and tertiary care hospitalization, thereby reducing out-of-pocket healthcare expenditure and preventing catastrophic health spending.
+
+ELIGIBILITY CRITERIA:
+- Must belong to a family identified under SECC (Socio-Economic Caste Census) 2011 deprivation criteria
+- Rural: families with kutcha house, no adult member aged 16-59, female-headed household with no male member aged 16-59, disabled member, SC/ST, landless manual labourers, destitute families, those without shelter, begging for alms, or doing manual scavenging
+- Urban: rag picker, beggar, domestic worker, street vendor, construction worker, plumber, mason, painter, welder, security guard, coolie, sweeper, sanitation worker, transport worker, rickshaw puller, shop worker, mechanic, electrician, washer man, chowkidar or any other worker earning less than Rs 10,000/month
+- No cap on family size — all members of eligible families covered
+- Pre-existing diseases covered from day one
+
+BENEFITS:
+- Rs 5,00,000 (5 lakh) health insurance cover per family per year
+- Covers hospitalization expenses including pre and post hospitalization
+- 1,929+ medical and surgical packages covered
+- Cashless and paperless treatment at empanelled hospitals
+- Coverage includes medicines, diagnostics, consultation, bed charges, food, transport allowance
+- No restriction on family size, age, or gender
+- Pre-existing conditions covered from day one
+- Coverage is portable across India at any empanelled hospital
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card (for identity verification)
+- Ration Card or SECC inclusion proof
+- Ayushman Card (can be generated at any empanelled hospital or CSC)
+- Mobile Number linked with Aadhaar
+- Any government photo ID (if Aadhaar unavailable)
+
+APPLICATION PROCESS:
+1. Check eligibility at https://pmjay.gov.in or call toll-free helpline 14555
+2. Enter mobile number or Aadhaar number on the Am I Eligible portal (https://mera.pmjay.gov.in)
+3. If eligible, visit nearest empanelled hospital or Common Service Center (CSC)
+4. Carry Aadhaar card and ration card for verification
+5. Get Ayushman Card generated (free of cost)
+6. Use the card for cashless treatment at any PMJAY empanelled hospital across India
+7. No premium, no enrollment fee — completely free for eligible families
+
+RETRIEVAL DATE: 2026-11-20

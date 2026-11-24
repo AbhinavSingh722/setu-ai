@@ -1,0 +1,46 @@
+SCHEME NAME: National Family Benefit Scheme (NFBS)
+SCHEME NAME (HINDI): राष्ट्रीय परिवार लाभ योजना (एनएफबीएस)
+SOURCE URL: https://nsap.nic.in
+OFFICIAL PORTAL: https://nsap.nic.in
+CATEGORY: Welfare / Social Security
+LEVEL: Central Government (Centrally Sponsored Scheme)
+IMPLEMENTING MINISTRY: Ministry of Rural Development
+
+OBJECTIVE:
+To provide a lump-sum financial assistance to the bereaved household on the death of the primary breadwinner, helping the family cope with the immediate financial crisis caused by the loss.
+
+ELIGIBILITY CRITERIA:
+- Must be a Below Poverty Line (BPL) family
+- The deceased should have been the primary breadwinner of the family
+- The deceased should have been aged between 18 and 59 years at the time of death
+- Death due to any cause (natural or accidental) is covered
+- The surviving members of the household are the beneficiaries
+- Claimant should be the eldest surviving member of the household
+
+BENEFITS:
+- Lump-sum financial assistance of Rs 20,000 per household
+- One-time payment on death of primary breadwinner
+- Amount transferred directly to bank/post office account of the claimant
+- Payment within 30 days of application approval (target)
+- Some states provide additional top-up amounts from state funds
+
+DOCUMENTS REQUIRED:
+- Death Certificate of the breadwinner
+- BPL Card/Certificate or inclusion in SECC-2011 list
+- Age proof of the deceased (Aadhaar/Voter ID/Birth Certificate)
+- Aadhaar Card of the claimant
+- Bank Account details of the claimant
+- FIR copy (in case of accidental/unnatural death)
+- Relationship proof with the deceased
+
+APPLICATION PROCESS:
+1. Contact the local Gram Panchayat (rural) or Municipal Corporation (urban)
+2. Obtain the NFBS application form
+3. Fill the form and attach all required documents
+4. Submit to the Sub-Divisional Magistrate (SDM) or Block Development Officer (BDO)
+5. Verification done by Block/District office
+6. After approval, amount credited to claimant's bank account via DBT
+7. Application must be made within one year of the death
+8. Helpline: Contact District Social Welfare Officer or NSAP helpline
+
+RETRIEVAL DATE: 2026-11-20

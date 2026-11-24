@@ -1,7 +1,7 @@
 # SETU — Dependencies
 # Core AI/ML
 langchain>=1.0.0
-langchain-ollama>=1.0.0
+langchain-groq>=1.0.0
 langchain-community>=0.4.0
 langgraph>=1.0.0
 chromadb>=1.0.0
@@ -10,6 +10,7 @@ sentence-transformers>=5.0.0
 # Document Processing
 pdfplumber>=0.11.0
 beautifulsoup4>=4.12.0
+fpdf2>=2.7.0
 
 # UI
 streamlit>=1.50.0

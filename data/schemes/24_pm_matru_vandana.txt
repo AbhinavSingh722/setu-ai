@@ -1,0 +1,46 @@
+SCHEME NAME: Pradhan Mantri Matru Vandana Yojana (PMMVY)
+SCHEME NAME (HINDI): प्रधानमंत्री मातृ वंदना योजना (पीएमएमवीवाई)
+SOURCE URL: https://pmmvy.wcd.gov.in
+OFFICIAL PORTAL: https://pmmvy.wcd.gov.in
+CATEGORY: Maternity Benefit / Women Welfare
+LEVEL: Central Government (Centrally Sponsored Scheme)
+IMPLEMENTING MINISTRY: Ministry of Women and Child Development
+
+OBJECTIVE:
+To provide partial compensation for wage loss so that pregnant women and lactating mothers can take adequate rest before and after delivery, and to improve health-seeking behaviour by providing cash incentives for institutional delivery and child immunization.
+
+ELIGIBILITY CRITERIA:
+- Pregnant women and lactating mothers
+- For first living child: Total benefit of Rs 5,000 in three installments
+- For second child (if girl): Rs 6,000 in one installment
+- Women employed in central/state government or PSU or receiving similar benefits under other schemes are NOT eligible
+- Must register pregnancy at Anganwadi Centre (AWC) or approved health facility
+- Must have MCP (Mother and Child Protection) card
+
+BENEFITS:
+- First Child: Rs 5,000 in three installments:
+  - 1st installment: Rs 1,000 (on registration of pregnancy at AWC within 150 days of LMP)
+  - 2nd installment: Rs 2,000 (after at least one ante-natal check-up after 6 months of pregnancy)
+  - 3rd installment: Rs 2,000 (after child birth registration and first cycle of immunization)
+- Second Child (Girl): Rs 6,000 in single installment after birth of girl child
+- Amount transferred via Direct Benefit Transfer (DBT) to bank/post office account
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card (of the beneficiary woman)
+- Bank/Post Office Account passbook (Aadhaar-linked)
+- MCP (Mother and Child Protection) Card
+- Aadhaar Card of husband/family member
+- Mobile Number
+
+APPLICATION PROCESS:
+1. Visit nearest Anganwadi Centre (AWC) or approved health facility
+2. Register pregnancy within 150 days of last menstrual period (LMP)
+3. Fill Form 1-A for registration and first installment
+4. Provide Aadhaar and bank account details
+5. After 6 months pregnancy and ANC check-up, fill Form 1-B for 2nd installment
+6. After child birth and first immunization, fill Form 1-C for 3rd installment
+7. For second girl child, fill Form 2-A after birth
+8. All forms available at AWC or online at https://pmmvy.wcd.gov.in
+9. Helpline: 181 (Women Helpline) or Anganwadi Worker
+
+RETRIEVAL DATE: 2026-11-20

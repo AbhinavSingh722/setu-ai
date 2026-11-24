@@ -1,0 +1,52 @@
+SCHEME NAME: Pradhan Mantri Awas Yojana (PMAY)
+SCHEME NAME (HINDI): प्रधानमंत्री आवास योजना (पीएमएवाई)
+SOURCE URL: https://pmaymis.gov.in
+OFFICIAL PORTAL: https://pmaymis.gov.in
+CATEGORY: Housing / Welfare
+LEVEL: Central Government (Centrally Sponsored Scheme)
+IMPLEMENTING MINISTRY: Ministry of Housing and Urban Affairs / Ministry of Rural Development
+
+OBJECTIVE:
+To provide affordable housing (pucca house) to all eligible families in urban and rural areas by 2024 under the vision of "Housing for All". The scheme provides financial assistance and interest subsidies for construction or purchase of a house.
+
+ELIGIBILITY CRITERIA:
+- Beneficiary family should not own a pucca house anywhere in India
+- Family income up to Rs 18 lakh per annum (varies by component)
+- EWS (Economically Weaker Section): Annual income up to Rs 3 lakh
+- LIG (Low Income Group): Annual income Rs 3-6 lakh
+- MIG-I: Annual income Rs 6-12 lakh
+- MIG-II: Annual income Rs 12-18 lakh
+- Women ownership or co-ownership mandatory for EWS and LIG categories
+- Beneficiary should not have availed central government housing scheme benefits earlier
+- PMAY-Gramin: BPL families, SC/ST, minorities, persons with disabilities, freed bonded labourers
+
+BENEFITS:
+- PMAY Urban EWS: Subsidy of Rs 2.67 lakh (interest subsidy at 6.5% on loans up to Rs 6 lakh)
+- PMAY Urban LIG: Subsidy of Rs 2.67 lakh (interest subsidy at 6.5% on loans up to Rs 6 lakh)
+- PMAY Urban MIG-I: Subsidy of Rs 2.35 lakh (interest subsidy at 4% on loans up to Rs 9 lakh)
+- PMAY Urban MIG-II: Subsidy of Rs 2.30 lakh (interest subsidy at 3% on loans up to Rs 12 lakh)
+- PMAY Gramin: Rs 1.20 lakh in plain areas, Rs 1.30 lakh in hilly/difficult areas
+- Additional Rs 12,000 for toilet construction under SBM
+- 90/95 days of unskilled labour under MGNREGA
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card (mandatory)
+- Income Certificate from competent authority
+- BPL Certificate or SECC data inclusion (for rural)
+- Property ownership documents or land allotment letter
+- Bank Account details (Aadhaar-linked)
+- Caste Certificate (if applicable)
+- Affidavit declaring no pucca house ownership
+- Passport-size photographs
+
+APPLICATION PROCESS:
+1. PMAY Urban: Visit https://pmaymis.gov.in and click on "Citizen Assessment"
+2. Enter Aadhaar number for verification
+3. Fill application form with personal, income, and property details
+4. Submit and note the application reference number
+5. PMAY Gramin: Applications processed through Gram Panchayat/Block Development Office
+6. Beneficiaries identified from SECC 2011 data and approved by Gram Sabha
+7. After approval, funds transferred directly to beneficiary bank account via DBT
+8. Helpline: 1800-11-6163 (toll-free)
+
+RETRIEVAL DATE: 2026-11-20

@@ -1,0 +1,47 @@
+SCHEME NAME: Pradhan Mantri Fasal Bima Yojana (PMFBY)
+SCHEME NAME (HINDI): प्रधानमंत्री फसल बीमा योजना (पीएमएफबीवाई)
+SOURCE URL: https://pmfby.gov.in
+OFFICIAL PORTAL: https://pmfby.gov.in
+CATEGORY: Agriculture / Insurance
+LEVEL: Central Government (Centrally Sponsored Scheme)
+IMPLEMENTING MINISTRY: Ministry of Agriculture and Farmers Welfare
+
+OBJECTIVE:
+To provide affordable crop insurance coverage and financial support to farmers in the event of crop failure due to natural calamities, pests, and diseases, thereby stabilizing farm income and encouraging investment in agriculture.
+
+ELIGIBILITY CRITERIA:
+- All farmers including sharecroppers and tenant farmers growing notified crops in notified areas
+- Both loanee and non-loanee farmers eligible
+- Voluntary for all farmers (from Kharif 2020 onwards)
+- Farmer must have insurable interest in the crop being insured
+- Enrolment within the cut-off date for the respective crop season
+- Kharif crops, Rabi crops, and annual commercial/horticultural crops covered
+
+BENEFITS:
+- Premium rates: 2% for Kharif crops, 1.5% for Rabi crops, 5% for commercial/horticultural crops
+- Balance premium paid by Central and State governments (50:50)
+- Full sum insured covered (no capping of premium subsidy)
+- Coverage against prevented sowing, mid-season adversity, post-harvest losses (up to 14 days), localized calamities (hailstorm, landslide, inundation)
+- Claims settled within 2 months of harvest
+- Use of technology: satellite imagery, drones, smart phones for quick crop loss assessment
+- Add-on coverage for wildlife attack in select areas
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card
+- Bank Account passbook
+- Land records (Khata/Khasra) or lease agreement for tenant farmers
+- Sowing certificate from Patwari/Gram Panchayat
+- Self-declaration of crops sown and area
+
+APPLICATION PROCESS:
+1. Loanee farmers: Automatically enrolled through bank (can opt out if not interested)
+2. Non-loanee farmers: Visit nearest bank branch, CSC, or insurance company agent
+3. Or apply online at https://pmfby.gov.in
+4. Fill the crop insurance form with land and crop details
+5. Pay premium amount (farmer share only)
+6. In case of crop loss, intimate the insurance company or call crop insurance helpline within 72 hours
+7. Crop Cutting Experiments (CCE) or technology-based assessment done
+8. Claim amount credited to bank account after assessment
+9. Helpline: Crop Insurance App or toll-free number 1800-200-7710
+
+RETRIEVAL DATE: 2026-11-20

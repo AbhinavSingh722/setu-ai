@@ -1,0 +1,44 @@
+SCHEME NAME: Atal Pension Yojana (APY)
+SCHEME NAME (HINDI): अटल पेंशन योजना (एपीवाई)
+SOURCE URL: https://npscra.nsdl.co.in/scheme-details.php
+OFFICIAL PORTAL: https://enps.nsdl.com/eNPS/NationalPensionSystem.html
+CATEGORY: Pension / Social Security
+LEVEL: Central Government (Central Sector Scheme)
+IMPLEMENTING MINISTRY: Ministry of Finance (Department of Financial Services)
+
+OBJECTIVE:
+To create a universal social security system for all Indians, especially the unorganized sector workers, by providing a defined minimum pension of Rs 1,000 to Rs 5,000 per month after age 60, based on contributions made during the working years.
+
+ELIGIBILITY CRITERIA:
+- Indian citizen aged between 18 and 40 years
+- Must have a savings bank account
+- Must have Aadhaar and mobile number linked to bank account
+- Must not be an income tax payer (rule applicable from Oct 2022 onwards)
+- Not a member of any statutory social security scheme (EPFO, ESIC, etc.)
+- Workers in the unorganized sector are the primary target group
+
+BENEFITS:
+- Guaranteed minimum pension of Rs 1,000, Rs 2,000, Rs 3,000, Rs 4,000, or Rs 5,000 per month after age 60
+- Pension amount depends on contribution and age of joining
+- Example: Rs 42/month contribution at age 18 gives Rs 1,000/month pension at 60
+- Example: Rs 210/month contribution at age 18 gives Rs 5,000/month pension at 60
+- Spouse gets same pension amount after subscriber's death
+- Nominee gets the accumulated pension corpus after death of both subscriber and spouse
+- Government co-contributed 50% of total contribution or Rs 1,000/year (whichever is lower) for subscribers who joined before March 2016
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card (mandatory)
+- Bank Account passbook (savings account)
+- Mobile Number linked to bank account
+
+APPLICATION PROCESS:
+1. Visit your bank branch (any nationalized or participating bank)
+2. Fill the APY registration form (available at the bank)
+3. Provide Aadhaar number and mobile number
+4. Choose pension amount (Rs 1,000 to Rs 5,000/month)
+5. Set up auto-debit from bank account for monthly/quarterly/half-yearly contributions
+6. Can also enroll through net banking or mobile banking apps of participating banks
+7. Online enrollment at https://enps.nsdl.com/eNPS/NationalPensionSystem.html
+8. Helpline: 1800-110-708 (toll-free NPS helpline)
+
+RETRIEVAL DATE: 2026-11-20

@@ -1,0 +1,47 @@
+SCHEME NAME: Rajasthan Chiranjeevi Swasthya Bima Yojana
+SCHEME NAME (HINDI): राजस्थान चिरंजीवी स्वास्थ्य बीमा योजना
+SOURCE URL: https://chiranjeevi.rajasthan.gov.in
+OFFICIAL PORTAL: https://chiranjeevi.rajasthan.gov.in
+CATEGORY: Health Insurance
+LEVEL: State Government (Rajasthan)
+IMPLEMENTING DEPARTMENT: State Health Assurance Agency, Government of Rajasthan
+
+OBJECTIVE:
+To provide universal health coverage to all families of Rajasthan, ensuring quality cashless healthcare up to Rs 25 lakh per family per year at empanelled government and private hospitals.
+
+ELIGIBILITY CRITERIA:
+- All families of Rajasthan are eligible
+- Free for: NFSA (National Food Security Act) beneficiaries, SECC 2011 families, COVID-19 ex-gratia families, small and marginal farmers, contractual workers, all government health scheme beneficiaries
+- Other families: Can register by paying premium of Rs 850/year per family
+- Registration through Jan Aadhaar portal mandatory
+- No restriction on family size — all members covered
+
+BENEFITS:
+- Cashless treatment up to Rs 25 lakh per family per year
+- Covers 1,576+ medical packages including surgery, diagnostics, medicines
+- 5-day pre-hospitalization and 15-day post-hospitalization expenses covered
+- Both government and empanelled private hospitals across Rajasthan
+- Coverage for major diseases including heart surgery, cancer treatment, organ transplant, joint replacement, dialysis
+- No age limit or exclusion for pre-existing diseases
+- Accidental death benefit of Rs 5 lakh
+- OPD coverage for select diseases
+
+DOCUMENTS REQUIRED:
+- Jan Aadhaar Card (mandatory for Rajasthan residents)
+- Aadhaar Card (for identity verification)
+- Mobile Number linked with Jan Aadhaar
+- Premium payment receipt (for non-exempt families)
+
+APPLICATION PROCESS:
+1. Visit https://chiranjeevi.rajasthan.gov.in
+2. Register using Jan Aadhaar number
+3. Verify family details and select members
+4. Free category families: Registration is free; no premium
+5. Other families: Pay premium of Rs 850/year online via portal
+6. Can also register at e-Mitra kiosk or CSC center
+7. After registration, receive Chiranjeevi Card digitally
+8. For treatment: Visit any empanelled hospital with Jan Aadhaar card
+9. Hospital verifies eligibility and provides cashless treatment
+10. Helpline: 181 or 0141-2609981
+
+RETRIEVAL DATE: 2026-11-20

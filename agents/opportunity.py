@@ -9,11 +9,7 @@ import os
 from dataclasses import dataclass, field
 from typing import Optional
 
-from langchain_ollama import ChatOllama
-try:
-    from langchain_groq import ChatGroq
-except ImportError:
-    ChatGroq = None
+from langchain_groq import ChatGroq
 from langchain_core.messages import HumanMessage, SystemMessage
 
 import sys
@@ -22,8 +18,8 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
 from ingestion.chroma_store import SetuVectorStore, RetrievalResult
 
 
-OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
-OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "granite3.3:8b")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
+GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")
 
 OPPORTUNITY_SYSTEM_PROMPT = """You are the Opportunity Agent for SETU. Your job is to recommend livelihood opportunities — skill training, job portals, apprenticeships — to the user based on their situation.
 
@@ -59,26 +55,16 @@ class OpportunityAgent:
     def __init__(
         self,
         vector_store: Optional[SetuVectorStore] = None,
-        model_name: str = OLLAMA_MODEL,
-        base_url: str = OLLAMA_BASE_URL,
+        model_name: str = None,
     ):
         self.store = vector_store or SetuVectorStore()
         
-        groq_api_key = os.getenv("GROQ_API_KEY")
-        if groq_api_key and ChatGroq:
-            self.llm = ChatGroq(
-                model="llama3-8b-8192",
-                api_key=groq_api_key,
-                temperature=0.1,
-                max_tokens=512,
-            )
-        else:
-            self.llm = ChatOllama(
-                model=model_name,
-                base_url=base_url,
-                temperature=0.1,
-                num_predict=512,
-            )
+        self.llm = ChatGroq(
+            model=model_name or GROQ_MODEL,
+            api_key=GROQ_API_KEY,
+            temperature=0.1,
+            max_tokens=512,
+        )
     
     def run(self, query: str, user_profile: dict = None) -> OpportunityResult:
         """Search for relevant opportunities."""

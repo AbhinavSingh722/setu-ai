@@ -13,16 +13,12 @@ import json
 from dataclasses import dataclass, field
 from typing import Optional
 
-from langchain_ollama import ChatOllama
-try:
-    from langchain_groq import ChatGroq
-except ImportError:
-    ChatGroq = None
+from langchain_groq import ChatGroq
 from langchain_core.messages import HumanMessage, SystemMessage
 
 
-OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
-OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "granite3.3:8b")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
+GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")
 
 
 INTAKE_SYSTEM_PROMPT = """You are the Language & Intake Agent for SETU. Your job is to:
@@ -79,24 +75,14 @@ class LanguageAgent:
     
     def __init__(
         self,
-        model_name: str = OLLAMA_MODEL,
-        base_url: str = OLLAMA_BASE_URL,
+        model_name: str = None,
     ):
-        groq_api_key = os.getenv("GROQ_API_KEY")
-        if groq_api_key and ChatGroq:
-            self.llm = ChatGroq(
-                model="llama3-8b-8192",
-                api_key=groq_api_key,
-                temperature=0.0,
-                max_tokens=512,
-            )
-        else:
-            self.llm = ChatOllama(
-                model=model_name,
-                base_url=base_url,
-                temperature=0.0,  # Deterministic for structured output
-                num_predict=512,
-            )
+        self.llm = ChatGroq(
+            model=model_name or GROQ_MODEL,
+            api_key=GROQ_API_KEY,
+            temperature=0.0,
+            max_tokens=512,
+        )
     
     def _detect_language_heuristic(self, text: str) -> str:
         """Quick heuristic language detection (backup for LLM)."""

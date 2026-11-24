@@ -1,0 +1,43 @@
+SCHEME NAME: Pradhan Mantri Ujjwala Yojana (PMUY)
+SCHEME NAME (HINDI): प्रधानमंत्री उज्ज्वला योजना (पीएमयूवाई)
+SOURCE URL: https://pmuy.gov.in
+OFFICIAL PORTAL: https://pmuy.gov.in
+CATEGORY: Welfare / Energy
+LEVEL: Central Government (Central Sector Scheme)
+IMPLEMENTING MINISTRY: Ministry of Petroleum and Natural Gas
+
+OBJECTIVE:
+To safeguard the health of women and children by providing free LPG connections to women from Below Poverty Line (BPL) households, replacing polluting cooking fuels like firewood, coal, and cow dung with clean cooking fuel.
+
+ELIGIBILITY CRITERIA:
+- Must be a woman from a BPL household
+- Applicant must be 18 years or older
+- Must not have an existing LPG connection in the household (from any company)
+- Household identified under SECC 2011 or belonging to any of the 7 priority categories: SC/ST households, PMAY beneficiaries, AAY (Antyodaya Anna Yojana) beneficiaries, forest dwellers (FRA), most backward classes (MBC), tea/ex-tea garden tribes, people residing in islands/river islands
+- Under Ujjwala 2.0: migrant workers can apply with self-declaration
+
+BENEFITS:
+- Free LPG connection (security deposit for cylinder, pressure regulator, and inspection charges paid by government)
+- Total subsidy of Rs 1,600 per connection
+- First LPG refill and stove provided free of cost under Ujjwala 2.0
+- EMI facility for purchase of stove and first refill (if not free)
+- Subsequent refill subsidy transferred via DBT to bank account
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card (of the woman applicant)
+- BPL Card or SECC inclusion list entry
+- Bank Account (Aadhaar-linked, in applicant's name)
+- Passport-size photograph
+- Self-declaration (for migrant workers under Ujjwala 2.0)
+- Address proof (ration card, voter ID, or self-declaration for migrants)
+
+APPLICATION PROCESS:
+1. Visit nearest LPG distributor (Indian Oil, Bharat Petroleum, or HP Gas)
+2. Obtain Ujjwala Yojana application form (Form KYC-1)
+3. Fill form with personal details and attach documents
+4. Submit completed form at the distributor
+5. After verification, LPG connection issued within 7 working days
+6. Under Ujjwala 2.0: apply online at https://pmuy.gov.in
+7. Helpline: 1800-266-6696 (toll-free)
+
+RETRIEVAL DATE: 2026-11-20

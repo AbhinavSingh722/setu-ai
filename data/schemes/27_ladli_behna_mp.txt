@@ -1,0 +1,50 @@
+SCHEME NAME: Ladli Behna Yojana (Madhya Pradesh)
+SCHEME NAME (HINDI): लाड़ली बहना योजना (मध्य प्रदेश)
+SOURCE URL: https://ladlibahna.mp.gov.in
+OFFICIAL PORTAL: https://ladlibahna.mp.gov.in
+CATEGORY: Women Welfare / Direct Benefit Transfer
+LEVEL: State Government (Madhya Pradesh)
+IMPLEMENTING DEPARTMENT: Department of Women and Child Development, Government of Madhya Pradesh
+
+OBJECTIVE:
+To promote women's economic empowerment and financial independence by providing a monthly financial assistance of Rs 1,250 to eligible women in Madhya Pradesh, ensuring regular income support for health, nutrition, and self-reliance.
+
+ELIGIBILITY CRITERIA:
+- Must be a woman resident of Madhya Pradesh
+- Married women (including widows, divorced, deserted, and separated women) are eligible
+- Age between 21 and 60 years
+- Annual family income should be less than Rs 2.5 lakh
+- Should not own more than 5 acres of agricultural land
+- Should not be an income taxpayer
+- Should not be receiving pension of Rs 1,000 or more from government
+- Women from all categories (SC/ST/OBC/General) are eligible
+
+BENEFITS:
+- Rs 1,250 per month transferred directly to bank account (increased from initial Rs 1,000)
+- Rs 15,000 per year total annual benefit
+- Payment on the 10th of every month
+- Amount transferred via Direct Benefit Transfer (DBT)
+- No conditions or work requirements — unconditional cash transfer
+- Coverage for over 1.25 crore women in Madhya Pradesh
+
+DOCUMENTS REQUIRED:
+- Aadhaar Card (mandatory)
+- Samagra ID (Madhya Pradesh family/member ID — mandatory)
+- Bank Account passbook (linked with Aadhaar and DBT-enabled)
+- Mobile Number
+- Passport-size photograph
+- Samagra ID must have e-KYC completed
+
+APPLICATION PROCESS:
+1. Visit nearest Gram Panchayat office, Ward office, or Camp organized by the government
+2. Fill the Ladli Behna application form
+3. Provide Aadhaar number, Samagra ID, and bank details
+4. Complete e-KYC verification at the camp
+5. Photograph and biometric verification done on the spot
+6. After verification by Gram Panchayat/Ward, application forwarded to Janpad/Nagar level
+7. Final approval at district level
+8. Amount credited to bank account from the following month
+9. Check status at https://ladlibahna.mp.gov.in
+10. Helpline: 0755-2700800 or CM Helpline 181
+
+RETRIEVAL DATE: 2026-11-20

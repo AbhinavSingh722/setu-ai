@@ -15,11 +15,7 @@ import json
 from dataclasses import dataclass, field
 from typing import Optional
 
-from langchain_ollama import ChatOllama
-try:
-    from langchain_groq import ChatGroq
-except ImportError:
-    ChatGroq = None
+from langchain_groq import ChatGroq
 from langchain_core.messages import HumanMessage, SystemMessage
 
 # Add parent directory to path for imports
@@ -30,8 +26,8 @@ from ingestion.chroma_store import SetuVectorStore, RetrievalResult
 
 
 # --- Configuration ---
-OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
-OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "granite3.3:8b")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
+GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")
 
 ELIGIBILITY_SYSTEM_PROMPT = """You are the Eligibility & Scheme Agent for SETU, an AI system that helps Indian citizens find government welfare schemes and scholarships they are eligible for.
 
@@ -100,8 +96,7 @@ class EligibilityAgent:
     def __init__(
         self,
         vector_store: Optional[SetuVectorStore] = None,
-        model_name: str = OLLAMA_MODEL,
-        base_url: str = OLLAMA_BASE_URL,
+        model_name: str = None,
         n_results: int = 10,
     ):
         self.n_results = n_results
@@ -112,22 +107,13 @@ class EligibilityAgent:
         else:
             self.store = SetuVectorStore()
         
-        # Initialize LLM (Groq if available, else Ollama)
-        groq_api_key = os.getenv("GROQ_API_KEY")
-        if groq_api_key and ChatGroq:
-            self.llm = ChatGroq(
-                model="llama3-8b-8192",
-                api_key=groq_api_key,
-                temperature=0.1,
-                max_tokens=1024,
-            )
-        else:
-            self.llm = ChatOllama(
-                model=model_name,
-                base_url=base_url,
-                temperature=0.1,  # Low temperature for factual accuracy
-                num_predict=1024,
-            )
+        # Initialize LLM (Groq cloud API)
+        self.llm = ChatGroq(
+            model=model_name or GROQ_MODEL,
+            api_key=GROQ_API_KEY,
+            temperature=0.1,
+            max_tokens=1024,
+        )
     
     def retrieve_context(self, query: str, n_results: int = None) -> list[RetrievalResult]:
         """Retrieve relevant chunks from ChromaDB."""
@@ -204,7 +190,7 @@ class EligibilityAgent:
             "Do NOT mention any scheme that is not in the retrieved context."
         )
         
-        # Step 4: Call Granite via Ollama
+        # Step 4: Call LLM via Groq
         messages = [
             SystemMessage(content=ELIGIBILITY_SYSTEM_PROMPT),
             HumanMessage(content=user_prompt),
@@ -216,7 +202,7 @@ class EligibilityAgent:
         except Exception as e:
             return EligibilityResult(
                 query=query,
-                response_text=f"Error connecting to Granite model: {str(e)}. Please ensure Ollama is running with granite3.3:8b.",
+                response_text=f"Error connecting to Groq API: {str(e)}. Please ensure GROQ_API_KEY is set correctly.",
                 recommendations=[],
                 retrieved_chunks=retrieved,
                 num_schemes_found=0,
